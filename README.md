@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnaHogger
-- 👀 I’m interested in finishing my PhD
+- 👀 I’m interested in finishing my PhD :)
 - 🌱 I’m currently learning R
 - 📫 How to reach me: anna.hogger@tum.de
 - 😄 Pronouns: she/her
